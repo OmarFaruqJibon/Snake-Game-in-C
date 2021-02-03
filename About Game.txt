@@ -1,8 +1,3 @@
-I have tried to make a simple Snake game. 
+This is a simple Snake game in C programming language. 
 The game is without any graphics. 
 I have used Visual Studio 2019 and CodeBlocks to create the game.
-
-This is not a perfect snake game, but it is my first try.
-If there are any mistake, I hope you will be consider. 
-
-Thank You.
